@@ -1,0 +1,4 @@
+about-me.txt
+My name is Adrian Pena 
+One thing I want to learn about computers is Data Structures 
+One technology I use every day is Artificial Intelligence 
